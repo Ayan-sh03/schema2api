@@ -1,0 +1,22 @@
+# Git
+.git/
+.gitignore
+
+# Go test files
+*_test.go
+
+# Configuration files
+.env
+*.yaml
+*.yml
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Logs
+*.log
